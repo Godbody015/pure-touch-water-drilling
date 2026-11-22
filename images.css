@@ -32,7 +32,7 @@
   .hero.hero-bg{
     background:
       linear-gradient(90deg,rgba(11,42,74,.92) 0%,rgba(11,42,74,.6) 30%,rgba(11,42,74,0) 62%),
-      url(images/hero-wide.jpg) right center/cover no-repeat,
+      url(images/home-hero.jpg) right center/cover no-repeat,
       #0b2a4a;
   }
   .hero.hero-bg .hero-grid{grid-template-columns:minmax(0,560px)}
